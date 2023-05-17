@@ -1,7 +1,4 @@
 <?php
-/**
- * Created by Chris on 9/29/2014 3:58 PM.
- */
 
 session_start();
 
@@ -9,7 +6,7 @@ $GLOBALS['config'] = array(
     'mysql' => array(
         'host' => '127.0.0.1',
         'username' => 'root',
-        'password' => '',
+        'password' => 'password',
         'db' => 'php_oop',
         'charset' => 'utf8mb4'
     ),
