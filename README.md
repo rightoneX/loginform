@@ -15,5 +15,5 @@ A basic object authentication system. Includs registrestion, log in. Also featur
 
 The credit goes for Alex
 
-Source downloaded from: [github](https://www.github.com/rightoneX)
+Source downloaded from [github](https://github.com/rightoneX/loginform)
 
